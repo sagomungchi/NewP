@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sang soo",
+      "pN": "01047502433",
+      "seedMoney": "3000000"
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "team": "사고뭉치",
+      "title": "toping",
+      "text": "토핑은 만들기가 어려워요",
+      "img": "../static/TopiLogo",
+      "needMoney": "3000000",
+      "earnMoney": "500000",
+      "track": ""
+    },
+    {
+      "id": 2,
+      "team": "사고뭉치2",
+      "title": "toping2",
+      "text": "토핑은 만들기가 어려워요2",
+      "img": "./static/TopiLogo",
+      "needMoney": "1000000",
+      "earnMoney": "600000",
+      "track": ""
+    },
+    {
+      "id": 3,
+      "team": "사고뭉치3",
+      "title": "toping3",
+      "text": "토핑은 만들기가 어려워요3",
+      "img": "./static/TopiLogo",
+      "needMoney": "9000000",
+      "earnMoney": "700000",
+      "track": ""
+    },
+    {
+      "team": "사고뭉치아님",
+      "title": "사고뭉치아님",
+      "text": "토핑은 만들기가 어려워요3",
+      "img": "./static/TopiLogo",
+      "needMoney": "9000000",
+      "earnMoney": "700000",
+      "track": "",
+      "id": 4
+    }
+  ]
+}

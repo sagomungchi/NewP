@@ -1,0 +1,28 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "team": "사고뭉치",
+      "title": "toping",
+      "text": "토핑은 만들기가 어려워요",
+      "img": "http://localhost:3000/static/TopiLogo.png",
+      "earnMoney": "0"
+    },
+    {
+      "id": 1,
+      "team": "사고뭉치",
+      "title": "toping",
+      "text": "토핑은 만들기가 어려워요",
+      "img": "http://localhost:3000/static/TopiLogo.png",
+      "earnMoney": "0"
+    },
+    {
+      "id": 1,
+      "team": "사고뭉치",
+      "title": "toping",
+      "text": "토핑은 만들기가 어려워요",
+      "img": "http://localhost:3000/static/TopiLogo.png",
+      "earnMoney": "0"
+    }
+  ]
+}
